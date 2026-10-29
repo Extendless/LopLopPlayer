@@ -6,9 +6,6 @@ Native macOS 14+ music player built with SwiftUI and system frameworks. The repo
 
 Run `./script/build_and_run.sh` to compile and launch the generated `dist/LopLop Player.app`. Run `swift test` for the deterministic model tests.
 
-## Visual direction
-
-The reference screenshot is a dark charcoal window with a quiet Albums heading, evenly spaced square artwork, bottom dark fades for white album/artist text, and a persistent gray player strip. This app carries those cues into adaptive native album and artist grids, adds keyboard reachable album and artist detail pages, and keeps player controls anchored at the bottom. Artist pages show a circular profile image, album count, and the artist's albums. Users can choose a local image; a resized copy is stored in app preferences and follows the normalized artist name. The artwork itself is read from the user's library; the screenshot's unrelated text/art are not included.
 
 ## Architecture and supported audio
 
