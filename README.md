@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.png" alt="LopLopPlayer.png" width="200">
+  <img src="assets/logo.png" alt="LopLopPlayerLogo.png" width="200">
 </p>
 
 # LopLopPlayer
